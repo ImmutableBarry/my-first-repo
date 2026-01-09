@@ -1,0 +1,7 @@
+Hello, VS Code!
+This is my first file created in VS Code.
+I'm learning:
+-Command line
+-Git and GitHub
+-VS Code
+- Soon : Web development!
